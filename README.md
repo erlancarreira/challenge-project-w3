@@ -4,9 +4,9 @@ This project is challenge development in PHP on backend with SlimFrameWork 4 and
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development. See deployment for notes on how to deploy the project on a live system.
+ These instructions will get you a copy of the project up and running on your local machine for development. See deployment for notes on how to deploy the project on a live system.
 
-### Instructions
+### Instructions -> Disable CORS 
 
 ```
 Open gitBash or other terminal bash in directory past backend and digit php -S localhost:3005 to initialize the backend 
