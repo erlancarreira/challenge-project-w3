@@ -13,7 +13,7 @@ Open gitBash or other terminal bash in directory past backend and digit php -S l
 
 ```
 ```
-Open gitBash or other terminal bash in directory past front_end and digit yarn install to add the node_modules and yarn start to initialize the backend
+Open gitBash or other terminal bash in directory past front_end and digit yarn install to add the node_modules and yarn start to initialize the frontend
 ```
 
 ## License
