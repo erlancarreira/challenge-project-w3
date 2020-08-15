@@ -1,0 +1,10 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "7.0",
+        "slim/slim": "4.0",
+        "slim/http": "^1.0",
+        "slim/psr7": "^1.1",
+        "guzzlehttp/psr7": "^1.6",
+        "http-interop/http-factory-guzzle": "^1.0"
+    }
+}
